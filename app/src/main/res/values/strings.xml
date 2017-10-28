@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 1.2 BMI</string>
+    <string name="input_weight"> Weight (kg)</string>
+    <string name="input_height">Height (m)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="result">BMI</string>
+    <string name="title">This app will help you to calculate your BMI index.</string>
+    <string name="string1">Your body BMI is  </string>
+    <string name="string2">You are</string>
+</resources>
